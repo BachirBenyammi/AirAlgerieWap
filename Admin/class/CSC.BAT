@@ -1,0 +1,1 @@
+c:\WINNT\Microsoft.NET\Framework\v1.1.4322\csc /target:library /out:airalgeriesite.dll functions.cs

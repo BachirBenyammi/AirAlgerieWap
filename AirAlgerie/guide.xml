@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<indications>
+	<indication>
+		<titre>1 - Documents de Voyage</titre>
+		<description>
+    			- Un passeport en cours de validité. 
+			- Un billet en cours de validité. 
+			- Un visa, si le pays d'accueil exige un visa d'entrée ou de transit si necessaire dans le pays de correspondance. 
+			- Une réservation ferme pour le retour, si exigée par le pays d'accueil. 
+			- Une réservation ferme pour toute continuation si exigée.  
+			- Un certificat de résidence et une autorisation paternelle sont exigés pour les personnes agées de moins de 19 ans voyageant seules ou avec des parents autres que le père ou le tuteur légal. 
+			- Un certificat de vaccination si requis. 
+			- Une assurance voyage. 
+			- En cas de non conformité, le passager risque à la fois refoulement et préjudice financier. 
+			     Pensez à annuler toute réservation que vous n'utiliserez pas.  
+		</description>
+	</indication>
+
+	<indication>
+		<titre>2 - Reductions Tarifaires</titre>
+		<description>
+		</description>
+	</indication>
+ 		- Les bébés de moins de 2 ans n'occupant pas de siège individuel ne paient que 10% du tarif adulte. 
+		- Les enfants agés de 2 à moins de 12 ans bénéficient d'une réduction de 33% sur le tarifs adulte. 
+		- D'autres réductions sont consenties sur nos lignes. Renseignez-vous auprés de nos points de ventes et agences agréées.
+	<indication>
+		<titre>3 - Choix du Menu</titre>
+		<description>
+			- Les passagers «première classe» à destination de Paris sur les vols AH 1004 et AH 1008 peuvent choisir leur menu avant l'accès au salon. 
+			- Aussi, les passagers qui suivent un régime alimentaire particulier  (diabétiques, hypertendus....) doivent le signaler à la réservation. 
+		</description>
+	</indication>
+
+	<indication>
+		<titre>4 - Passagers à Particularité</titre>
+		<description>
+			* Enfants non accompagnés 
+			- L'age minimum pour les enfants non accompagnés est fixé à 4 ans. 
+			- Une autorisation paternelle est exigée à la sortie du territoire Algérien pour les personnes agées de moins de 19 ans. 
+			- Tout enfant agé de 4 à 12 ans devra présenter une décharge de responsabilité signée des parents précisant le nom et adresse de la personne devant le prendre en charge à l'arrivée. 
+			- Pour les enfants portés sur le passeport de l'un des parents, le visa accordé sur ce passeport doit impérativement les concerner au meme titre que le parent. 
+ 			* Malades / Handicapés 
+			- Toute assistance particulière pour les passagers malades ou handicapés (civière, ambulance, fauteuil roulant, etc...)doit être signalée dés la réservation. 
+			- Un dossier médical est exigé pour les malades ou handicapés. ce dossier comprendra éventuellement les éléments de prise en charge dans le pays d'accueil(hopital, accompagnateur, médicaments, etc...) 
+  			* Femmes enceintes et nouveau - nés 
+			- Sont accéptées sur les lignes AIR ALGERIE, les femmes enceintes jusqu'au 8eme mois de grossesse et ce , sur présentation d'un certificat médical délivré par un gynécologue attestant de la bonne santé de la future maman. 
+			- Ce certificat, daté au maximum de 7 jours avant la date du voyage, doit aussi préciser qu'il ne s'agit pas d'une grossesse à risque.
+		</description>
+	</indication>
+</indications>
